@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... JS & CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mdhanansjd@gmail.com
-- 😄 Pronouns: ... Don't accept 'em
+- 😄 Pronouns: ... Don't believe in 'em
 - ⚡ Fun fact: ...
 
 <!---
