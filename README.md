@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mdhanansjd@gmail.com
 - 😄 Pronouns: ... Don't believe in 'em
-- ⚡ Fun fact: ...
+- ⚡ Constantly learning 🦾
 
 <!---
 MdHananSjd/MdHananSjd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
