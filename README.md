@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @MdHananSjd
 - 👀 I’m interested in ... Problem Solving + Basketball
-- 🌱 I’m currently learning ... JS & Node Js
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... JS & Flutter
 - 📫 How to reach me ... mdhanansjd@gmail.com
-- 😄 Pronouns: ... Don't believe in 'em
 - ⚡ Constantly learning 🦾
 
 <!---
