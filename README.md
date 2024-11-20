@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MdHananSjd
 - 👀 I’m interested in ... Problem Solving + Basketball
 - 🌱 I’m currently learning ... JS & Flutter
-- 📫 How to reach me ... mdhanansjd@gmail.com
 - ⚡ Constantly learning 🦾
 
 <!---
