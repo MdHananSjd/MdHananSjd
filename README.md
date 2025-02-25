@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MdHananSjd
+- 👋 Hi, I’m Hanan!
 - 🌱 I’m currently learning ... C++ & Flutter
 - ⚡ Constantly learning 🦾
 
